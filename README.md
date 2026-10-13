@@ -29,7 +29,9 @@ in a legal, controlled environment.
 ## Finding 1: SQL Injection
 
 **Location:** /dvwa/vulnerabilities/sqli/
+
 **Severity:** High
+
 **OWASP:** A03:2021 — Injection
 
 ### What is it?
